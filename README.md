@@ -1,1 +1,2 @@
-This git repo is just for jenkins test
+This git repo is just for jenkins test.
+Test build
